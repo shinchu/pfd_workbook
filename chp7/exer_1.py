@@ -25,7 +25,7 @@ CANVAS = 200
 black = (0, 0, 0)
 white = (1, 1, 1)
 
-newPage(CANVAS, CANVAS)
+size(CANVAS, CANVAS)
 
 if switch:
     background = white
